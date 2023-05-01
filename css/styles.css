@@ -65,6 +65,10 @@ a:hover {
     width: 30%;
     margin: auto;
 }
+.img-circle {
+    border: 4px solid rgb(146, 220, 233);
+    border-radius: 50%;
+}
 .contact-message {
     width: 40%;
     margin: 40px auto 60px;
